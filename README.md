@@ -1,2 +1,3 @@
-# bdmat-org-uk-mta-sts
-MTA-STS for bdmat.org.uk
+# MTA-STS - bdmat.org.uk
+
+MTA-STS file for bdmat.org.uk.
